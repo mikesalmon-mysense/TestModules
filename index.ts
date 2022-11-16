@@ -3,6 +3,6 @@ export const myTestFunction = () => {
     return {
         foo: 'bar',
         test: true,
-        version: 1,
+        version: 2,
     }
 }
